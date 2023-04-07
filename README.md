@@ -1,11 +1,13 @@
 # Portfolio
 
 # Table of Contents
-- [Username](#username)
-- [Email](#emial)
-- [Description](#description) 
-- [Licenses](#licenses)
-- [Deployed](#deployed)
+- [Portfolio](#portfolio)
+- [Table of Contents](#table-of-contents)
+  - [GitHub Username](#github-username)
+  - [Email](#email)
+  - [Description:](#description)
+  - [Licenses](#licenses)
+  - [Deployed](#deployed)
 
 
 ## GitHub Username
@@ -27,8 +29,8 @@ technologies I have worked on.
 <!-- ![Tux, the Linux mascot](https://img.shields.io/badge/License-MIT-green) -->
   
  ## Deployed
- [Portfolio](https://msowers72.github.io/My-Portfolio/)
- [Resume](https://docs.google.com/document/d/1GWyggTYIVXkvxL-7tZ3a3xcRByJKM0rZtsjx3X71f8I/edit?usp=sharing)
+ [Portfolio](https://msowers72.github.io/Portfolio/)
+ [Resume](https://docs.google.com/document/d/1foPeuWUMMC41gqKkxFmWoEd3N9exbJOFKbAWyI1FR3w/edit?usp=sharing)
  
  ![project](https://user-images.githubusercontent.com/80433477/139608283-c4295edd-e038-4bb6-b8de-a51ec99b9e73.PNG)
  
