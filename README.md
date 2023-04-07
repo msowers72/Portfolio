@@ -30,7 +30,7 @@ technologies I have worked on.
   
  ## Deployed
  [Portfolio](https://msowers72.github.io/Portfolio/)
- [Resume](https://docs.google.com/document/d/1GWyggTYIVXkvxL-7tZ3a3xcRByJKM0rZtsjx3X71f8I/edit?usp=sharing)
+ [Resume](https://docs.google.com/document/d/1foPeuWUMMC41gqKkxFmWoEd3N9exbJOFKbAWyI1FR3w/edit?usp=sharing)
  
  ![project](https://user-images.githubusercontent.com/80433477/139608283-c4295edd-e038-4bb6-b8de-a51ec99b9e73.PNG)
  
